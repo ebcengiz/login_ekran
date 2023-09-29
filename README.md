@@ -1,6 +1,6 @@
 # login_ekran
 
-A new Flutter project.
+Tasarim Ekrani.
 
 ## Getting Started
 
